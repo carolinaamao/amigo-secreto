@@ -7,5 +7,5 @@ Esta es una web que permite a los usuarios ingresar nombres de amigos en una lis
 4. Presiona "Sortear Amigo" y se mostrará el nombre seleccionado.
 
 ## 📌 Mejoras Futuras
-- Implementar estilos más atractivos con CSS o frameworks como TailwindCSS.
+- Implementar estilos más atractivos con CSS. 🥹
 - Permitir exportar la lista de nombres en un archivo.
